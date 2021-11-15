@@ -8,7 +8,7 @@
 
 ✅ Todo List:
 - [ ] 📖 Learn HTML
-- [] 🖼 Learn CSS
+- [ ] 🖼 Learn CSS
 - [ ] ⌨️ Learn JS
 - [ ] 🧩 Discover how to host a webpage
 
